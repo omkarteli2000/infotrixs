@@ -1,1 +1,2 @@
-# infotrixs
+# mini project by omkar
+
